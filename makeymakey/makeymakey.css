@@ -10889,7 +10889,7 @@ header.masthead .masthead-content {
 @media (min-width: 992px) {
   header.masthead {
     padding-top: calc(10rem + 55px);
-    padding-bottom: 10rem;
+    padding-bottom: 1rem;
   }
   header.masthead .masthead-content {
     font-size: 6rem;
